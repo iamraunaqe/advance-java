@@ -11,5 +11,6 @@ public class Main {
         
             F.setSize(500, 500);
             F.setVisible(true);
+            // new
     }
 }
